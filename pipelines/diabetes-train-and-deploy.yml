@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'utdmay20mlworkspace' # Workspace Service Connection name
+  ml-ws-connection: 'frdogbey' # Workspace Service Connection name
   ml-ws: 'utdmay20mlworkspace' # AML Workspace name
   ml-rg: 'may20utdrg' # AML resource Group name
   ml-ct: 'cpu-cluster-1' # AML Compute cluster name
